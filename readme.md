@@ -81,9 +81,15 @@ What you add should look something like this object, but adjusted for your name 
 }
 ```
 
--   Don't forget to ensure there's a comma between elements of the geometries array.
+### Where to add this object?
 
-# Extra notes on the technology behind it:
+Here's roughly where you should add your code, into the geometries array:
+
+![illustration of where to add your code](extra-docs/where-to-add-code.png)
+
+-   Don't forget to ensure there's a comma between elements of the geometries array (e.g. after your object)
+
+# Bonus: How did we get a live diagram/map into a readme file?!
 
 Just for the curious:
 
