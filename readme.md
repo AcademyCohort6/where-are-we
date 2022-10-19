@@ -58,6 +58,9 @@ Here you can see rough locations of cohort 6.
 1. make your change (detailed below) as a commit on the main branch directly - (NOTE: this is bad practice on any later week of the course, but a good way to get started)
 1. push the main branch up to github
 1. check it looks ok when viewed on github!
+1. make and push one more change - strike your name out ~~like this~~ from the list below "Who's next to edit?"
+1. tell the next person in the list it's their turn!
+
 
 ### The change to make
 
@@ -88,6 +91,18 @@ Here's roughly where you should add your code, into the geometries array:
 ![illustration of where to add your code](extra-docs/where-to-add-code.png)
 
 -   Don't forget to ensure there's a comma between elements of the geometries array (e.g. after your object)
+
+# Who's next to edit?
+
+* ~~Maghfoor~~
+* Josiah
+* Grace
+* Maria
+* Tinashe
+* Zac
+* Alessia
+* Katrina
+
 
 # Bonus: How did we get a live diagram/map into a readme file?!
 
