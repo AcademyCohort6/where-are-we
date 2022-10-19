@@ -42,8 +42,8 @@ Here you can see rough locations of cohort 6.
 ## Instructions:
 
 1. Find out your position as longitude, latitude: https://www.latlong.net/ - don't use your exact postcode in case that is too revealing - coordinates of the nearest city or some random place within, say, 20 miles is fine.
-1. clone the project
-1. when, and only when, it is your turn,
+1. clone this project from github.  Don't fork it!  (even though that has advantages, it's not quite as simple).
+1. when, and only when, it is your *turn*,
 1. make your change (detailed below) as a commit on the main branch directly - (NOTE: this is bad practice on any later week of the course, but a good way to get started)
 1. push the main branch up to github
 1. check it looks ok when viewed on github!
