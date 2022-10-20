@@ -22,6 +22,18 @@ Here you can see rough locations of cohort 6.
                         54.895
                     ]
                 },
+                 {
+                    "type": "Point",
+                    "properties": {
+                        "label": "Who",
+                        "title": "Nico"
+                    },
+                    "coordinates": [
+                        115.091949,
+                        -8.340539
+                    ]
+                },
+                
 {
     "type": "Point",
     "properties": {
@@ -95,6 +107,7 @@ Here's roughly where you should add your code, into the geometries array:
 # Who's next to edit?
 
 * ~~Maghfoor~~
+* ~~Nico~~
 * Josiah
 * Grace
 * Maria
