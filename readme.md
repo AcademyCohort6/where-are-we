@@ -108,13 +108,13 @@ Here's roughly where you should add your code, into the geometries array:
 
 * ~~Maghfoor~~
 * ~~Nico~~
-* Josiah
+* Tinashe
+* Alessia
 * Grace
 * Maria
-* Tinashe
 * Zac
-* Alessia
 * Katrina
+* Josiah
 
 
 # Bonus: How did we get a live diagram/map into a readme file?!
