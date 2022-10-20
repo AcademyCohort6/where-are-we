@@ -21,39 +21,16 @@ Here you can see rough locations of cohort 6.
                         -2.9335,
                         54.895
                     ]
-                },
-                 {
-                    "type": "Point",
-                    "properties": {
-                        "label": "Who",
-                        "title": "Nico"
-                    },
-                    "coordinates": [
-                        115.091949,
-                        -8.340539
-                    ]
-                },
-                
-{
-    "type": "Point",
-    "properties": {
-        "label": "Who",
-        "title": "Maghfoor"
-    },
-    "coordinates": [
-        -1.129060,
-        52.63
-    ]
-},
+                },                
                 {
                     "type": "Point",
                     "properties": {
                         "label": "Who",
-                        "title": "Pete"
+                        "title": "Maghfoor"
                     },
                     "coordinates": [
-                        -0.13,
-                        51.5
+                        -1.129060,
+                        52.63
                     ]
                 }
             ]
