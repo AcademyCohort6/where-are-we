@@ -11,6 +11,17 @@ Here you can see rough locations of cohort 6.
         "example": {
             "type": "GeometryCollection",
             "geometries": [
+		{
+                    "type": "Point",
+                    "properties": {
+                        "label": "Who",
+                        "title": "Alessia/Alli"
+                    },
+                    "coordinates": [
+                        59.3293,
+                        18.0685
+                    ]
+                },
                 {
                     "type": "Point",
                     "properties": {
