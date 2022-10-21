@@ -107,7 +107,7 @@ Here's roughly where you should add your code, into the geometries array:
 - ~~Maghfoor~~
 - ~~Nico~~
 - ~~Tinashe~~
-- Alessia
+- ~~Alessia~~
 - Grace
 - Maria
 - Zac
