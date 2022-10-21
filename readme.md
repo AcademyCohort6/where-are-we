@@ -54,6 +54,17 @@ Here you can see rough locations of cohort 6.
             -1.12906,
             52.63
           ]
+        },
+		{
+          "type": "Point",
+          "properties": {
+            "label": "Who",
+            "title": "Grace"
+          },
+          "coordinates": [
+            -0.050620
+            51.509769
+          ]
         }
       ]
     }
