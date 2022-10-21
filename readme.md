@@ -18,8 +18,8 @@ Here you can see rough locations of cohort 6.
                         "title": "Alessia/Alli"
                     },
                     "coordinates": [
-                        59.3293,
-                        18.0685
+                        18.0685,
+                        59.3293
                     ]
                 },
                 {
