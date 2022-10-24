@@ -15,6 +15,17 @@ Here you can see rough locations of cohort 6.
           "type": "Point",
           "properties": {
             "label": "Who",
+            "title": "María" 
+          },
+          "coordinates": [
+            -3.188267,
+            55.953251
+          ]
+        },
+        {
+          "type": "Point",
+          "properties": {
+            "label": "Who",
             "title": "Tinashe"
           },
           "coordinates": [
@@ -120,7 +131,7 @@ Here's roughly where you should add your code, into the geometries array:
 - ~~Tinashe~~
 - ~~Alessia~~
 - ~~Grace~~
-- Maria
+- ~~María~~
 - Zac
 - Katrina
 - Josiah
