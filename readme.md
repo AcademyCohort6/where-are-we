@@ -65,7 +65,7 @@ Here you can see rough locations of cohort 6.
             -0.050620
             51.509769
           ]
-        }
+        },
       ]
     }
   }
