@@ -55,7 +55,6 @@ Here you can see rough locations of cohort 6.
             52.63
           ]
         },
-		    {
           "type": "Point",
           "properties": {
             "label": "Who",
