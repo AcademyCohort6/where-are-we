@@ -135,6 +135,11 @@ Here's roughly where you should add your code, into the geometries array:
 - Zac
 - Katrina
 - Josiah
+- Ben
+- Didier
+- Aneesah
+- Alice
+- Sinbad
 
 # Bonus: How did we get a live diagram/map into a readme file?!
 
