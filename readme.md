@@ -119,7 +119,7 @@ Here's roughly where you should add your code, into the geometries array:
 - ~~Nico~~
 - ~~Tinashe~~
 - ~~Alessia~~
-- Grace
+- ~~Grace~~
 - Maria
 - Zac
 - Katrina
