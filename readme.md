@@ -87,11 +87,7 @@ Here you can see rough locations of cohort 6.
 	    0.257760,
 	    51.421169
 	  ]
-	}
-      ]
-    }
-  }
-},
+	},
 	{
 	  "type": "Point",
 	  "properties": {
@@ -102,10 +98,17 @@ Here you can see rough locations of cohort 6.
 	    -0.749470,
 	    51.628780
 	  ]
-	}
-      ]
-    }
-  }
+	},
+  {
+    "type": "Point",
+    "properties": {
+        "label": "Who",
+        "title": "Katrina"
+    },
+    "coordinates": [
+        -3.070710,
+        53.422691
+    ]
 }
 ```
 
