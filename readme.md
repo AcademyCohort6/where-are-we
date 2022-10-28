@@ -4,7 +4,7 @@ Here you can see rough locations of cohort 6.
 
 # Rough map of our cohort
 
-```topojson
+```topojson,
 {
   "type": "Topology",
   "objects": {
@@ -109,7 +109,7 @@ Here you can see rough locations of cohort 6.
         -3.070710,
         53.422691
     ]
-}]
+},]
 ```
 
 ## Instructions:
@@ -161,8 +161,8 @@ Here's roughly where you should add your code, into the geometries array:
 - ~~Alessia~~
 - ~~Grace~~
 - ~~María~~
-- Zac
-- Katrina
+- ~~Zac~~
+- ~~Katrina~~
 - Josiah
 - Ben
 - Didier
