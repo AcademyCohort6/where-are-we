@@ -91,6 +91,21 @@ Here you can see rough locations of cohort 6.
       ]
     }
   }
+},
+	{
+	  "type": "Point",
+	  "properties": {
+	      "label" : "Who",
+	      "title" : "Zac"
+	  },
+	  "coordinates": [
+	    -0.749470,
+	    51.628780
+	  ]
+	}
+      ]
+    }
+  }
 }
 ```
 
