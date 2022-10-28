@@ -149,7 +149,7 @@ Here's roughly where you should add your code, into the geometries array:
 - Ben
 - Didier
 - Aneesah
--~~ Alice~~
+- ~~Alice~~
 - Sinbad
 
 # Bonus: How did we get a live diagram/map into a readme file?!
