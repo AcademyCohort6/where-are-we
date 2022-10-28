@@ -76,7 +76,18 @@ Here you can see rough locations of cohort 6.
             -0.050620,
             51.509769
           ]
-        }
+        },
+	{
+	  "type": "Point",
+	  "properties": {
+	      "label" : "Who",
+	      "title" : "Alice"
+	  },
+	  "coordinates": [
+	    0.257760,
+	    51.421169
+	  ]
+	}
       ]
     }
   }
