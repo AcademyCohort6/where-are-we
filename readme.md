@@ -11,7 +11,8 @@ Here you can see rough locations of cohort 6.
     "example": {
       "type": "GeometryCollection",
       "geometries": [
-          "type": "Point",
+          {
+	  "type": "Point",
           "properties": {
             "label": "Who",
             "title": "Sinbad" 
