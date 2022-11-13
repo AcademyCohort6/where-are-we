@@ -11,6 +11,16 @@ Here you can see rough locations of cohort 6.
     "example": {
       "type": "GeometryCollection",
       "geometries": [
+          "type": "Point",
+          "properties": {
+            "label": "Who",
+            "title": "Sinbad" 
+          },
+          "coordinates": [
+            -2.441181,
+            50.711163
+          ]
+        },
         {
           "type": "Point",
           "properties": {
