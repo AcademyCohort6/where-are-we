@@ -33,6 +33,26 @@ Here you can see rough locations of cohort 6.
             55.953251
           ]
         },
+         "type": "Point",
+          "properties": {
+            "label": "Who",
+            "title": "Didier" 
+          },
+          "coordinates": [
+            -2.219861,
+            53.440400
+          ]
+        },
+         "type": "Point",
+          "properties": {
+            "label": "Who",
+            "title": "Ben" 
+          },
+          "coordinates": [
+            -1.260140,
+            51.675826
+          ]
+        },
         {
           "type": "Point",
           "properties": {
