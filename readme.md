@@ -33,6 +33,7 @@ Here you can see rough locations of cohort 6.
             55.953251
           ]
         },
+	{
          "type": "Point",
           "properties": {
             "label": "Who",
@@ -43,6 +44,7 @@ Here you can see rough locations of cohort 6.
             53.440400
           ]
         },
+	{
          "type": "Point",
           "properties": {
             "label": "Who",
